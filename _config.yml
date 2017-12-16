@@ -1,11 +1,1 @@
 theme: jekyll-theme-minimal
-# Site Settings
-title: Mojmir Doceka
-email: docekal@phil.muni.cz
-description: >
-  A guide to getting started with Jekyll.
-baseurl: "/startjekyll"
-url: "http://taniarascia.github.io"
-github_username:  MojmirDocekal
-# Build Settings
-include: ['_pages']
