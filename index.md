@@ -1,14 +1,4 @@
 
-<style>
-  .col2 {
-    columns: 2 200px;         /* number of columns and width in pixels*/
-    -webkit-columns: 2 200px; /* chrome, safari */
-    -moz-columns: 2 200px;    /* firefox */
-  }
-</style>
-
-<div class="col2">
-
 I am an associate professor at the [Department of Linguistics and Baltic Languages](http://www.phil.muni.cz/jazyk/). 
 
 My research focuses on formal and experimental [semantics](https://www.britannica.com/science/semantics). 
@@ -16,4 +6,3 @@ My research focuses on formal and experimental [semantics](https://www.britannic
 
 
 ![](DSC06915.jpg)
-</div>
