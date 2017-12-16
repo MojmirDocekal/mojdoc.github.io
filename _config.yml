@@ -1,1 +1,5 @@
+pages_list:       
+  About: '/about.md'
+  CV: '/cv.md'
+
 theme: jekyll-theme-minimal
